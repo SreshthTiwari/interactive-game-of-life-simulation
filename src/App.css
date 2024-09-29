@@ -1,0 +1,58 @@
+/* App.css */
+
+.App {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    background: #2e2e2e;
+    color: white;
+}
+
+.container{
+    /* background: red; */
+    padding: 20px;
+}
+
+.grid{
+    /* background-color: lightblue; */
+    display: grid;
+    gap: 5px;
+}
+
+.controls{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 20px;
+    /* background-color: pink; */
+}
+
+.controls .text{
+    text-align: left;
+}
+
+.buttons button{
+    padding: 9px 20px;
+    margin: 5px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 17px;
+    transition: .23s;
+}
+
+.buttons button:hover{
+    background-color: white;
+    color: black;
+    transition: .23s;
+    cursor: pointer;
+}
+
+.buttons button:active, .buttons button:focus{
+    border: 1px solid white;
+}
