@@ -4,7 +4,7 @@ This repo contains source files for a simple website to simulate [Conway's Game 
 
 ## Live Demo
 
-Check out the [live version] (https://game-of-life-sreshth-tiwari.vercel.app/).
+Check out the [live] (https://game-of-life-sreshth-tiwari.vercel.app/) version.
 
 ## About
 
