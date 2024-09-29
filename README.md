@@ -27,4 +27,5 @@ React, HTML, CSS
 - [ ] Add different colors to cell, so that they form a gradient
 - [ ] Add range slider to allow user to change speed of simulation
 - [ ] Add preset patterns (Glider Gun, etc.)
-- [ ] Host project
+- [x] Host project on vercel
+- [ ] Add favicon
