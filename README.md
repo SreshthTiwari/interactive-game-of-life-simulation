@@ -19,6 +19,6 @@ React, HTML, CSS
 
 ## To Do
 
-[ ] Optimize code
-[ ] Add different colors to cell, so that they form a gradient
-[ ] Add range slider to allow user to change speed of simulation
+- [ ] Optimize code
+- [ ] Add different colors to cell, so that they form a gradient
+- [ ] Add range slider to allow user to change speed of simulation
